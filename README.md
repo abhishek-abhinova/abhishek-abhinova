@@ -65,12 +65,12 @@ My official digital service platform for web designing & development.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishek2446&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek2446&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishek-abhinova&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-abhinova&theme=tokyonight" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek2446&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-abhinova&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
