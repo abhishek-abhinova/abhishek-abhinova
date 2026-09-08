@@ -10,7 +10,7 @@
 
 ## 🌐 About Me
 
-- 🎓 BTech CSE (3rd Year) – United College of Engineering & Research  
+- 🎓 BTech CSE (4th Year) – United College of Engineering & Research  
 - 🧩 Founder of **Abhinova**, a platform where I design & develop modern business websites  
 - 💡 Passionate about UI/UX, backend logic, automation, and building scalable systems  
 - 🌱 Currently learning **Node.js, MongoDB, REST APIs, and System Design**  
